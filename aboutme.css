@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(208, 132, 108);
+}
+
+.intro{
+    display: flex;
+    justify-content: center;
+}
+
+.mid{
+    display: flex;
+    justify-content: center;
+}
+
+.bu{
+    display: flex;
+    justify-content:center;
+}
+
+.body{
+    background-color: aquamarine;
+}
